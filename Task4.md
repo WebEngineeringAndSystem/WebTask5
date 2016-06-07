@@ -17,15 +17,15 @@
 * 常见疑惑解答
 
 系统的总体架构图如下所示：
-![Alt text](./系统总体架构图.jpg)
+![Alt text](https://github.com/WebEngineeringAndSystem/WebTask5/blob/master/1.jpg)
 
 
 -----------
 ###2.系统功能模块分析
 网上订餐系统的模型结构如下：
-![Alt text](./架构.jpg)
+![Alt text](https://github.com/WebEngineeringAndSystem/WebTask5/blob/master/2.jpg)
 　　从图中可以看出，系统功能大致可分为前台和后台两类，与前文系统功能结合，可把系统分为两大模块：一为系统管理模块（后台）；二为系统销售模块（前台）。其功能结构图如下所示：
-![Alt text](./新！.jpg)
+![Alt text](https://github.com/WebEngineeringAndSystem/WebTask5/blob/master/3.jpg)
 
 * 用户管理模块 
 该模块负责管理菜品销售管理系统的所有用户信息。主要功能包括添加、删除、修改以及查找用户信息。用户将被分为两类：管理员和客户。用户类型的转换也将在用户管理中实现，管理员可以管理所有用户信息，而客户只能对自己私有的信息进行维护。
